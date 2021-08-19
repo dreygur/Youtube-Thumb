@@ -1,0 +1,17 @@
+{
+  "name": "youtube-thumb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dreygur/Youtube-Thumb.git",
+  "author": "Rakibul Yeasin <ryeasin03@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
